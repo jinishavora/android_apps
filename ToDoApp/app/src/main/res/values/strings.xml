@@ -1,0 +1,19 @@
+<!--
+  ~ Created by: Jinisha Vora - jinishatanna@gmail.com
+  ~ Domain: nvcreation.com
+  ~ Copyright (c) 2019. All rights reserved.
+  ~ Last modified: 3/13/19 1:21 PM
+  -->
+
+<resources>
+    <string name="app_name">ToDoApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_edit_to_do">CREATE/EDIT TO DO</string>
+    <string name="add_a_tag_hint">Add a Tag</string>
+    <string name="no_tags_default">No Tags</string>
+    <string name="add_text_here_hint">Add text here</string>
+    <string name="save">Save</string>
+    <string name="blank_default_ToDoText" />
+</resources>

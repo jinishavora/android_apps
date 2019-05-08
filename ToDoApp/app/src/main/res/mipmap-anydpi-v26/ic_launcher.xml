@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by: Jinisha Vora - jinishatanna@gmail.com
+  ~ Domain: nvcreation.com
+  ~ Copyright (c) 2019. All rights reserved.
+  ~ Last modified: 3/6/19 11:14 AM
+  -->
+
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/ic_launcher_background" />
+    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+</adaptive-icon>

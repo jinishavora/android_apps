@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--
+    Created by Jinisha Vora (jinishatanna@gmail.com) on 27h February, 2019
+    Name of App: Say It
+    Purpose: To help with the US pronunciation of word/words/sentences.
+    -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_margin="8dp"
+        android:contentDescription="@string/say_it_aloud_image"
+        app:srcCompat="@drawable/ic_speaker_phone_black_24dp" />
+
+    <EditText
+        android:id="@+id/etWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:hint="@string/enter_text"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/btnSayIt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:background="@color/colorAccent"
+        android:text="@string/say_it" />
+
+
+</LinearLayout>

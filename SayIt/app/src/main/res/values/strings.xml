@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SayIt</string>
+    <string name="enter_text">Enter a word or a sentence</string>
+    <string name="say_it">Say It</string>
+    <string name="say_it_aloud_image">Say it aloud</string>
+</resources>

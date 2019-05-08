@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Created by Jinisha Vora (jinishatanna@gmail.com) on 27h February, 2019
+    Name of App: Say It
+    Purpose: To help with the US pronunciation of word/words/sentences.
+-->
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#FFC107</color>
+</resources>
