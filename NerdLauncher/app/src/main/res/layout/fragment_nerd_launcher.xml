@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!--
+  ~ /*
+  ~  * App Name : Nerd Launcher (Based on Big Nerd Ranch Guide)
+  ~  * Created by Jinisha Vora | Email: jinishatanna@gmail.com / jinishavora15@gmail.com | Domain: nvcreation.com
+  ~  * Copyright (c) 2019. All Rights Reserved.
+  ~  * Last Modified: 5/10/19 2:48 PM
+  ~  */
+  ~
+  -->
+
+<android.support.v7.widget.RecyclerView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/app_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  * App Name : Nerd Launcher (Based on Big Nerd Ranch Guide)
+  ~  * Created by Jinisha Vora | Email: jinishatanna@gmail.com / jinishavora15@gmail.com | Domain: nvcreation.com
+  ~  * Copyright (c) 2019. All Rights Reserved.
+  ~  * Last Modified: 5/8/19 5:26 PM
+  ~  */
+  ~
+  -->
+
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+</resources>

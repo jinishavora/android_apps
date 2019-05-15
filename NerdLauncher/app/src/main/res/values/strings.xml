@@ -1,0 +1,16 @@
+<!--
+  ~ /*
+  ~  * App Name : Nerd Launcher (Based on Big Nerd Ranch Guide)
+  ~  * Created by Jinisha Vora | Email: jinishatanna@gmail.com / jinishavora15@gmail.com | Domain: nvcreation.com
+  ~  * Copyright (c) 2019. All Rights Reserved.
+  ~  * Last Modified: 5/8/19 6:03 PM
+  ~  */
+  ~
+  -->
+
+<resources>
+    <string name="app_name">NerdLauncher</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
